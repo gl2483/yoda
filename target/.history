@@ -1,0 +1,41 @@
+test
+run
+test
+exit
+test
+clean
+test
+clean
+test
+clean
+test
+clean
+test
+clean
+test
+exit
+testOnly test.ControllerTest
+testOnly ControllerTest
+testOnly SessionControllerTest
+testOnly RequestSessionControllerTest
+clear
+testOnly RequestSessionControllerTest
+exit
+run
+testOnly AuthenticationControllerTest
+compile
+clean compile
+compile
+testOnly AuthenticationControllerTest
+testOnly RequestSessionControllerTest
+testOnly newEmailerTest
+testOnly newEmailersTest
+testOnly SessionControllerTest
+testOnly SpecialTest
+compile
+clean 
+compile
+testOnly SpecialTest
+testOnly SpecialTest.testAddZeroRating
+testOnly SpecialTest
+exit

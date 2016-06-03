@@ -1,0 +1,7 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/KK/Documents/4156/final_project/yoda/conf/application.conf,/Users/KK/Documents/4156/final_project/yoda/target/scala-2.11/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/Users/KK/Documents/4156/final_project/yoda/conf/evolutions,/Users/KK/Documents/4156/final_project/yoda/target/scala-2.11/classes/evolutions)[0m
+[0m[[0mdebug[0m] [0m	(/Users/KK/Documents/4156/final_project/yoda/conf/logback.xml,/Users/KK/Documents/4156/final_project/yoda/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/Users/KK/Documents/4156/final_project/yoda/conf/routes,/Users/KK/Documents/4156/final_project/yoda/target/scala-2.11/classes/routes)[0m
+[0m[[0mdebug[0m] [0m	(/Users/KK/Documents/4156/final_project/yoda/conf/evolutions/default,/Users/KK/Documents/4156/final_project/yoda/target/scala-2.11/classes/evolutions/default)[0m
+[0m[[0mdebug[0m] [0m	(/Users/KK/Documents/4156/final_project/yoda/conf/evolutions/default/1.sql,/Users/KK/Documents/4156/final_project/yoda/target/scala-2.11/classes/evolutions/default/1.sql)[0m
